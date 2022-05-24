@@ -1,1 +1,2 @@
 # Web-Crawler-
+Web crawler project is an automated script designed to surf the internet and store the content of certain webpages. A web crawler is especially useful to find up-to-date information using multi-thread concepts in its program.  A crawler bot is built using Python’s request module or Scrapy, a Python’s open-source web crawling framework explicitly designed for web scraping and extracting data by using APIs. Here you can see this python project source code.
